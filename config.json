@@ -1,0 +1,5 @@
+{
+    "api_url": "https://api.open-meteo.com/v1/forecast",
+    "latitude": 50.633,
+    "longitude": 3.0586
+}
